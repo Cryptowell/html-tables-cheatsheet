@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    padding: 10px;
+}
+
+h2 a {
+    color: black;
+}
+
+p {
+    padding: 10px;
+    text-align: left;
+}
+
+table {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    border: 15px groove rgb(136, 127, 127);
+    border-radius: 5px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+ border: 2px solid black;   
+}
+
+td {
+    border: 1px solid black;   
+    text-align: center;
+}
+
+
+
+.tags a{
+    font-weight: bold;
+    color: red;
+}
+
+tfoot td {
+    border: none;
+    padding: 10px;
+}
